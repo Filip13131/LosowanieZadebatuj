@@ -4,7 +4,6 @@ import { useState } from 'react';
 function App() {
 
   const [players, setPlayers] = useState(['Martyna Rajchel',
-    'Bartłomiej Dudziak',
     'Tomasz Racki',
     'Igor Szar',
     'Dawid Mikuła', 
@@ -14,8 +13,8 @@ function App() {
     'Oliwia Cich',
     'Teresa Kozaczewska', 
     'Zuzanna Zimna',
-    'Lukasz Bartoszcze',
-    'Jakub Batko',
+    'Lukasz Bartoszcze (Niedziela)',
+    'Jakub Batko (Niedziela)',
     'Irena Worobkiewicz', 
     'Marta Kwasek',
     'Szymon Galicki',
@@ -23,7 +22,7 @@ function App() {
     'Adrian Thrun',
     'Agnieszka Czyż-Mańkowska', 
     'Piotr Serdeń',
-    'Jakub Maciejewski', 
+    'Jakub Maciejewski (Niedziela)', 
     'Matylda Pindel',
     'Piotr Michalak',
     'Łukasz Zagrajek',
@@ -31,10 +30,9 @@ function App() {
     'Kacper Pałczyński',
     'Grzegorz Chmiel',
     'Marek Gibasiewicz',
-    'Beniamin Krok',
     'Katarzyna Widera', 
     'Iwo Kobylański',
-    'Olga Wilk'
+    'Olga Wilk (Niedziela)'
     ]);
 
   const [motions, setMotions] = useState(['1. Należy żałować rekreacyjnego posiadania zwierząt', 
